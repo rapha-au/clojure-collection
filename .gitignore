@@ -1,0 +1,13 @@
+/janken/target
+/janken/classes
+/janken/checkouts
+/janken/profiles.clj
+/janken/pom.xml
+/janken/pom.xml.asc
+/janken/*.jar
+/janken/*.class
+/janken/.lein-*
+/janken/.nrepl-port
+/janken/.prepl-port
+/janken/.hgignore
+/janken/.hg/
